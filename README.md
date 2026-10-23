@@ -1,6 +1,6 @@
 # Hi, I'm Punit 👋
 
-**AI-integrated full-stack developer** from Pune, India. I build and ship production web apps, and my B.Com (Accountancy) background gives me an edge in fintech and business-software problems.
+**AI-integrated full-stack developer** from Pune, India. I build and ship production web apps, and commerce background gives me an edge in fintech and business-software problems.
 
 I'm currently **open to Software Engineer roles**.
 
